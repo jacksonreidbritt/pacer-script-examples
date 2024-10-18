@@ -9,7 +9,7 @@ There are examples of the widget implementaion in 3 different frontend framework
 
 Add following code into ``&lt;head&gt;`` tag of your html file
 
-``<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ddlanhh/kuaay-embeddable-script@main/kuaay-embeded-script.min.js"  defer></script>
+``<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/jacksonreidbritt/pacer-embedded@main/pacer-co-embedded-obf.js"  defer></script>
 ``
 
 ## 2. Get Shipping quote form work
